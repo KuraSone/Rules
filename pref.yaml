@@ -1,0 +1,4 @@
+dns:
+  enable: true
+  proxy-server-nameserver:
+    - https://47.240.81.250:8053/dns-query/98ab5576057278e5336228401e10fc7c3b4ed2707f277606
